@@ -2,8 +2,7 @@
 不需要@微信官方，迎国庆换新颜活动，给头像添加一面国旗
 
 ###演示地址
-
-![src/qr.png](/src/qr.png =200x200)
+<img src="/src/qr.png" width="200" height="200" />
 
 ###使用说明
 本机需要 go 环境
@@ -12,10 +11,7 @@
 
 运行 `main.go`,四种结果在`output`文件夹内
 
-![utput/flag_avatar1.png](/output/flag_avatar1.png =200x200)
-
-![utput/flag_avatar2.png](/output/flag_avatar2.png =200x200)
-
-![utput/flag_avatar3.png](/output/flag_avatar3.png =200x200)
-
-![utput/flag_avatar4.png](/output/flag_avatar4.png =200x200)
+<img src="/output/flag_avatar1.png" width="200" height="200" />
+<img src="/output/flag_avatar2.png" width="200" height="200" />
+<img src="/output/flag_avatar3.png" width="200" height="200" />
+<img src="/output/flag_avatar4.png" width="200" height="200" />
