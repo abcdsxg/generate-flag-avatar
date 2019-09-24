@@ -3,7 +3,7 @@
 
 ###演示地址
 
-![output/qr.png](/output/qr.png)
+![src/qr.png](/src/qr.png)
 
 ###使用说明
 本机需要 go 环境
