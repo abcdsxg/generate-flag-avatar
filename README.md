@@ -11,7 +11,7 @@
 
 运行 `main.go`,四种结果在`output`文件夹内
 
-<img src="/output/flag_avatar1.png" width="200" height="200" />
-<img src="/output/flag_avatar2.png" width="200" height="200" />
-<img src="/output/flag_avatar3.png" width="200" height="200" />
-<img src="/output/flag_avatar4.png" width="200" height="200" />
+
+| 1 |  2 | 3 | 4 |
+|---|---|---|---|
+<img src="/output/flag_avatar1.png" width="200" height="200" /> | <img src="/output/flag_avatar2.png" width="200" height="200" /> | <img src="/output/flag_avatar3.png" width="200" height="200" /> | <img src="/output/flag_avatar4.png" width="200" height="200" />|
