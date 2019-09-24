@@ -3,7 +3,7 @@
 
 ###演示地址
 
-![src/qr.png](/src/qr.png)
+![src/qr.png](/src/qr.png =200x200)
 
 ###使用说明
 本机需要 go 环境
@@ -12,10 +12,10 @@
 
 运行 `main.go`,四种结果在`output`文件夹内
 
-![utput/flag_avatar1.png](/output/flag_avatar1.png)
+![utput/flag_avatar1.png](/output/flag_avatar1.png =200x200)
 
-![utput/flag_avatar2.png](/output/flag_avatar2.png)
+![utput/flag_avatar2.png](/output/flag_avatar2.png =200x200)
 
-![utput/flag_avatar3.png](/output/flag_avatar3.png)
+![utput/flag_avatar3.png](/output/flag_avatar3.png =200x200)
 
-![utput/flag_avatar4.png](/output/flag_avatar4.png)
+![utput/flag_avatar4.png](/output/flag_avatar4.png =200x200)
